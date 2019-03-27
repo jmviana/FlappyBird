@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Wed Oct 24 23:13:01 BST 2018
+base.0=C\:\\Users\\jmvia\\OneDrive\\Ambiente de Trabalho\\FlappyBird\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
